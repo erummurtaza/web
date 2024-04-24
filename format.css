@@ -1,0 +1,76 @@
+.main{
+    margin-top:0%;
+    font-family: arial;
+    background-image: linear-gradient(to right ,rgb(242, 242, 205) 0%
+                      ,rgb(242, 242, 205) 60%
+                      ,white 60%,white 100%);
+     padding-bottom: 240px;
+     padding-top: 0%;
+
+}
+
+.main-text h4{
+    margin-top: 0%;
+    color:rgb(245, 101, 48);
+    margin-left: 0%s;
+    
+}
+.main-text h5 {
+    padding-top:250px ;
+    color:rgb(245, 101, 48);
+    font-size:35px;
+    
+    padding-bottom: 0;
+    margin-bottom: 0%;
+
+}
+.main-text h6 {
+margin-top: 0%;
+    padding-top: 0px;
+    color:rgb(245, 101, 48);
+    font-size:30px;
+    
+    font-weight: 530;
+    width:500px;
+}
+.get-started{
+    position: fixed;
+    top:43%;
+    right:10%;
+    text-align: center;
+}
+.get-started h4{
+    font-weight: bold;
+    font-size:25px;
+    margin-bottom: 5%;
+}
+.get-started button{
+    margin-top: 0%;
+    background-color:rgb(84, 84, 239);
+    color:white;
+    border: none;
+    height: 40px;
+    width:170px;
+    border-radius: 5px;
+    border-spacing: 15px;
+
+}
+.AI {
+    position: fixed;
+    top:80%;
+    right:15%;
+}
+.AI h6 {
+    text-align: center;
+    color: grey;
+    font-size: 14px;
+    font-weight: 500;
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+}
+.AI h5 {
+    
+    color: grey;
+    font-size: 14px;
+    font-weight: 500;
+}
